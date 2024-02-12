@@ -1,0 +1,7 @@
+root = true
+
+[.{html,py}]
+charset = utf-8
+intend_size = 4
+intend_style = space
+max_line_length = 119
